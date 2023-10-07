@@ -3,7 +3,7 @@ source "https://rubygems.org"
 ruby "2.7.1"
 
 gem "active_link_to"
-gem "active_model_serializers", "0.10.10"
+gem "active_model_serializers", "0.10.14"
 gem "administrate", "0.16.0"
 gem "analytics-ruby", "~> 2.2.2", require: "segment/analytics"
 gem "attr_extras"
