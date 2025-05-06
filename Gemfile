@@ -46,7 +46,7 @@ group :development, :test do
   gem "dotenv-rails"
   gem "foreman"
   gem "listen"
-  gem "rspec-rails", ">= 4.0.0.beta4"
+  gem "rspec-rails", ">= 8.0.0"
 end
 
 group :test do
